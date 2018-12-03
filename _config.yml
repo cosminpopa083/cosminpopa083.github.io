@@ -17,8 +17,10 @@ footer: RELAX & JOY
 social:
   - title: facebook-messenger
     url: m.me/myrelaxjoy
+    alias: messenger
   - title: facebook
     url: https://www.facebook.com/myrelaxjoy
+    alias: facebook
 
 
 # Build settings
